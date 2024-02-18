@@ -1,6 +1,8 @@
+<center>
 <img src="static/app-icon.png" width=200>
 <h1 text-align=center>To Do App</h1>
 This is a task management application project (To-do) built with the modern Python framework called FastAPI.
+</center>
 
 ## Getting started
 
